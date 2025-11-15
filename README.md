@@ -1,4 +1,4 @@
-# DESIGN OF DIFFERENTIAL AMPLIFIER
+## DESIGN-OF-DIFFERENTIAL-AMPLIFIER
 ## AIM:
 To design and construct a inverting, non- inverting and differential amplifiers.
 
@@ -43,8 +43,14 @@ Differential amplifier
 
 ## TABULATION:
 
+<img width="780" height="1280" alt="image" src="https://github.com/user-attachments/assets/61dff264-04a8-4174-8bbc-6d2cddc01ac8" />
+
 
 ## GRAPH:
 
+<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/2cbaea33-a38b-43f7-8c1b-9c984bd7f8e0" />
 
 ## RESULT:                   
+
+
+<img width="787" height="1280" alt="image" src="https://github.com/user-attachments/assets/c16863cc-17c2-49ab-8c58-c71578f2220f" />
