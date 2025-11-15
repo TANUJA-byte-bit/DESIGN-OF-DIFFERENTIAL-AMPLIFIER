@@ -51,6 +51,4 @@ Differential amplifier
 <img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/2cbaea33-a38b-43f7-8c1b-9c984bd7f8e0" />
 
 ## RESULT:                   
-
-
-<img width="787" height="1280" alt="image" src="https://github.com/user-attachments/assets/c16863cc-17c2-49ab-8c58-c71578f2220f" />
+Thus the design and construct a  non- inverting amplifiers is done successfully.
